@@ -49,7 +49,7 @@ class Paciente {
 
 $paula = new Paciente();
 $paula->setNome('Paula');
-$paula->setFilho(1);
+$paula->setFilho(2);
 $paula->setDataNascimento("1991-12-05");
 
 echo $paula->fichaPaciente();

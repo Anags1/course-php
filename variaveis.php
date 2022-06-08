@@ -8,7 +8,7 @@
     </head>
     <body>
     <?php
-        $nome = 'Lidia';
+        $nome = 'Jay';
         $idade = 29;
         $peso = 58.5;
         $fumante = false;

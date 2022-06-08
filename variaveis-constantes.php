@@ -8,7 +8,7 @@
     </head>
     <body>
         <?php
-            //variavel constante: caixa alta, não precisa usar $
+
             define('BD_URL', 'endereco_bd_dev');
             define('BD_USUARIO', 'usuario_dev');
             define('BD_SENHA', 'senha_dev');

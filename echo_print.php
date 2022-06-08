@@ -11,7 +11,7 @@
         <?php
             echo 'Comando echo</br>';
 
-            print 'Comendo print</hr>';
+            print 'Comando print</hr>';
 
          ?>
 
